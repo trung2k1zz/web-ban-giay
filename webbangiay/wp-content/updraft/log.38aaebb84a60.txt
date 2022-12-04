@@ -1,0 +1,271 @@
+0000.000 (0) Opened log file at time: Mon, 22 Nov 2021 07:45:13 +0000 on http://chickenshoes.infinityfreeapp.com
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.63 WP: 5.8.2 PHP: 7.4.8 (apache2handler, Linux freeweb21.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64) MySQL: 5.6.48-88.0 (max packet size=3145728) WPLANG: vi Server: Apache safe_mode: 0 max_execution_time: 60 memory_limit: 128M (used: 92.1M | 39M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.002 (0) Free space on disk containing Updraft's temporary directory: Unknown
+0000.004 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.006 (0) Semaphore (fd, wp_options) being initialised
+0000.008 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.010 (0) Set semaphore last lock (fd) time to 2021-11-22 07:45:13
+0000.011 (0) Semaphore lock (fd) complete
+0000.015 (0) Backup run: resumption=0, nonce=38aaebb84a60, file_nonce=38aaebb84a60 begun at=1637567113 (0s ago), job type=backup
+0000.018 (0) Scheduling a resumption (1) after 300 seconds (1637567413) in case this run gets aborted
+0000.031 (0) Checking if we have a zip executable available
+0000.033 (0) Creation of backups of directories: beginning
+0000.036 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0041.098 (0) Total entities for the zip file: 2774 directories, 13340 files (0 skipped as non-modified), 173.6 MB
+0041.126 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0044.188 (0) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 100 files added (on-disk size: 548.4 KB)
+0044.396 (0) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 200 files added (on-disk size: 548.4 KB)
+0044.402 (0) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 300 files added (on-disk size: 548.4 KB)
+0044.409 (0) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 400 files added (on-disk size: 548.4 KB)
+0044.419 (0) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 500 files added (on-disk size: 548.4 KB)
+0044.436 (0) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 600 files added (on-disk size: 548.4 KB)
+0044.445 (0) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 700 files added (on-disk size: 548.4 KB)
+0044.454 (0) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 800 files added (on-disk size: 548.4 KB)
+0044.471 (0) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 900 files added (on-disk size: 548.4 KB)
+0044.477 (0) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1000 files added (on-disk size: 548.4 KB)
+0044.478 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (14 MB, 13340 files batched, 1001 (1002) added so far); re-opening (prior size: 548.4 KB)
+0093.562 (0) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1100 files added (on-disk size: 6203.8 KB)
+0095.577 (0) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1200 files added (on-disk size: 6203.8 KB)
+0095.589 (0) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1300 files added (on-disk size: 6203.8 KB)
+0095.603 (0) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1400 files added (on-disk size: 6203.8 KB)
+0095.612 (0) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1500 files added (on-disk size: 6203.8 KB)
+0095.633 (0) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1600 files added (on-disk size: 6203.8 KB)
+0095.652 (0) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1700 files added (on-disk size: 6203.8 KB)
+0095.655 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 13340 files batched, 712 (1714) added so far); re-opening (prior size: 6203.8 KB)
+0300.810 (1) Opened log file at time: Mon, 22 Nov 2021 07:50:14 +0000 on http://chickenshoes.infinityfreeapp.com
+0300.811 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.63 WP: 5.8.2 PHP: 7.4.8 (apache2handler, Linux freeweb21.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64) MySQL: 5.6.48-88.0 (max packet size=3145728) WPLANG: vi Server: Apache safe_mode: 0 max_execution_time: 60 memory_limit: 128M (used: 75.4M | 47M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG: C ZipArchive::addFile: Y
+0300.813 (1) Free space on disk containing Updraft's temporary directory: Unknown
+0300.815 (1) Requesting backup semaphore lock (38aaebb84a60)
+0300.817 (1) [Debug] Lock option (updraft_lock_38aaebb84a60, wp_options) was created in the database
+0300.817 (1) [Info] Lock (updraft_lock_38aaebb84a60, wp_options) acquired after initialising the database
+0300.820 (1) Backup run: resumption=1, nonce=38aaebb84a60, file_nonce=38aaebb84a60 begun at=1637567113 (301s ago), job type=backup, previous check-in=93.5s
+0300.822 (1) Scheduling a resumption (2) after 300 seconds (1637567714) in case this run gets aborted
+0300.857 (1) Checking if we have a zip executable available
+0300.868 (1) Creation of backups of directories: had begun; will resume
+0300.880 (1) Beginning creation of dump of plugins (split every: 400 MB)
+0300.882 (1) File exists (/home/vol15_8/epizy.com/epiz_30199179/htdocs/wp-content/updraft/backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1637567209, time_now=1637567414, diff=205)
+0300.883 (1) No zip manifest file found will create one
+0300.900 (1) Creating zip file manifest (/home/vol15_8/epizy.com/epiz_30199179/htdocs/wp-content/updraft/backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.list-temp.tmp)
+0300.915 (1) Successfully created zip file manifest (size: 86968)
+0300.919 (1) backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: Zip file already exists, with 1002 files
+0301.376 (1) Total entities for the zip file: 2774 directories, 13340 files (0 skipped as non-modified), 173.6 MB
+0301.391 (1) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 100 files added (on-disk size: 6203.8 KB)
+0301.392 (1) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 200 files added (on-disk size: 6203.8 KB)
+0301.393 (1) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 300 files added (on-disk size: 6203.8 KB)
+0301.394 (1) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 400 files added (on-disk size: 6203.8 KB)
+0301.395 (1) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 500 files added (on-disk size: 6203.8 KB)
+0301.396 (1) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 600 files added (on-disk size: 6203.8 KB)
+0301.398 (1) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 700 files added (on-disk size: 6203.8 KB)
+0301.399 (1) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 800 files added (on-disk size: 6203.8 KB)
+0301.400 (1) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 900 files added (on-disk size: 6203.8 KB)
+0301.401 (1) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1000 files added (on-disk size: 6203.8 KB)
+0301.406 (1) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1100 files added (on-disk size: 6203.8 KB)
+0301.411 (1) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1200 files added (on-disk size: 6203.8 KB)
+0301.416 (1) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1300 files added (on-disk size: 6203.8 KB)
+0301.421 (1) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1400 files added (on-disk size: 6203.8 KB)
+0301.426 (1) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1500 files added (on-disk size: 6203.8 KB)
+0301.431 (1) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1600 files added (on-disk size: 6203.8 KB)
+0301.436 (1) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1700 files added (on-disk size: 6203.8 KB)
+0301.438 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 13340 files batched, 712 (712) added so far); re-opening (prior size: 6203.8 KB)
+0381.585 (1) A useful amount of data was added after this amount of zip processing: 81.2 s (normalised: 80.9 s, rate: 316.4 KB/s)
+0386.316 (1) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1800 files added (on-disk size: 13531.9 KB)
+0386.326 (1) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1900 files added (on-disk size: 13531.9 KB)
+0386.341 (1) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 2000 files added (on-disk size: 13531.9 KB)
+0386.351 (1) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 2100 files added (on-disk size: 13531.9 KB)
+0386.377 (1) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 2200 files added (on-disk size: 13531.9 KB)
+0386.385 (1) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 2300 files added (on-disk size: 13531.9 KB)
+0386.399 (1) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 2400 files added (on-disk size: 13531.9 KB)
+0386.417 (1) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 2500 files added (on-disk size: 13531.9 KB)
+0386.441 (1) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 2600 files added (on-disk size: 13531.9 KB)
+0386.447 (1) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 2700 files added (on-disk size: 13531.9 KB)
+0386.448 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (4.5 MB, 13340 files batched, 1001 (1713) added so far); re-opening (prior size: 13531.9 KB)
+0625.947 (2) Opened log file at time: Mon, 22 Nov 2021 07:55:39 +0000 on http://chickenshoes.infinityfreeapp.com
+0625.949 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.63 WP: 5.8.2 PHP: 7.4.8 (apache2handler, Linux freeweb21.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64) MySQL: 5.6.48-88.0 (max packet size=3145728) WPLANG: vi Server: Apache safe_mode: 0 max_execution_time: 60 memory_limit: 128M (used: 75.3M | 47M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG: C ZipArchive::addFile: Y
+0625.951 (2) Free space on disk containing Updraft's temporary directory: Unknown
+0625.952 (2) Requesting backup semaphore lock (38aaebb84a60)
+0625.954 (2) [Info] Lock (updraft_lock_38aaebb84a60, wp_options) acquired
+0625.956 (2) Backup run: resumption=2, nonce=38aaebb84a60, file_nonce=38aaebb84a60 begun at=1637567113 (626s ago), job type=backup, previous check-in=85.5s
+0625.958 (2) Scheduling a resumption (3) after 300 seconds (1637568039) in case this run gets aborted
+0625.981 (2) Checking if we have a zip executable available
+0625.982 (2) Creation of backups of directories: had begun; will resume
+0625.984 (2) Beginning creation of dump of plugins (split every: 400 MB)
+0625.985 (2) File exists (/home/vol15_8/epizy.com/epiz_30199179/htdocs/wp-content/updraft/backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1637567500, time_now=1637567739, diff=239)
+0625.987 (2) Successfully read zip manifest file contents
+0626.483 (2) Total entities for the zip file: 2774 directories, 13340 files (0 skipped as non-modified), 173.6 MB
+0626.501 (2) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 100 files added (on-disk size: 13531.9 KB)
+0626.502 (2) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 200 files added (on-disk size: 13531.9 KB)
+0626.503 (2) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 300 files added (on-disk size: 13531.9 KB)
+0626.505 (2) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 400 files added (on-disk size: 13531.9 KB)
+0626.506 (2) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 500 files added (on-disk size: 13531.9 KB)
+0626.507 (2) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 600 files added (on-disk size: 13531.9 KB)
+0626.508 (2) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 700 files added (on-disk size: 13531.9 KB)
+0626.509 (2) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 800 files added (on-disk size: 13531.9 KB)
+0626.511 (2) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 900 files added (on-disk size: 13531.9 KB)
+0626.512 (2) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1000 files added (on-disk size: 13531.9 KB)
+0626.517 (2) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1100 files added (on-disk size: 13531.9 KB)
+0626.523 (2) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1200 files added (on-disk size: 13531.9 KB)
+0626.528 (2) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1300 files added (on-disk size: 13531.9 KB)
+0626.533 (2) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1400 files added (on-disk size: 13531.9 KB)
+0626.538 (2) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1500 files added (on-disk size: 13531.9 KB)
+0626.546 (2) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1600 files added (on-disk size: 13531.9 KB)
+0626.554 (2) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1700 files added (on-disk size: 13531.9 KB)
+0626.557 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 13340 files batched, 712 (712) added so far); re-opening (prior size: 13531.9 KB)
+0642.904 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 13340 files batched, 1 (713) added so far); re-opening (prior size: 13531.9 KB)
+0663.058 (2) A useful amount of data was added after this amount of zip processing: 20.6 s (normalised: 20.6 s, rate: 1244.5 KB/s)
+0698.895 (2) Performance is good - will increase the amount of data we attempt to batch (time=20.6450600624, normalised_time=20.5711247356, max_time=93, data points known=2, old_max_bytes=26214400, new_max_bytes=71107610)
+0699.016 (2) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1800 files added (on-disk size: 13545.1 KB)
+0699.034 (2) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1900 files added (on-disk size: 13545.1 KB)
+0699.061 (2) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 2000 files added (on-disk size: 13545.1 KB)
+0699.107 (2) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 2100 files added (on-disk size: 13545.1 KB)
+0699.137 (2) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 2200 files added (on-disk size: 13545.1 KB)
+0699.166 (2) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 2300 files added (on-disk size: 13545.1 KB)
+0699.178 (2) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 2400 files added (on-disk size: 13545.1 KB)
+0699.222 (2) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 2500 files added (on-disk size: 13545.1 KB)
+0699.255 (2) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 2600 files added (on-disk size: 13545.1 KB)
+0699.279 (2) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 2700 files added (on-disk size: 13545.1 KB)
+0699.293 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (4.5 MB, 13340 files batched, 1001 (1714) added so far); re-opening (prior size: 13545.1 KB)
+0928.316 (3) Opened log file at time: Mon, 22 Nov 2021 08:00:41 +0000 on http://chickenshoes.infinityfreeapp.com
+0928.317 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.63 WP: 5.8.2 PHP: 7.4.8 (apache2handler, Linux freeweb21.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64) MySQL: 5.6.48-88.0 (max packet size=3145728) WPLANG: vi Server: Apache safe_mode: 0 max_execution_time: 60 memory_limit: 128M (used: 75.4M | 13M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG: C ZipArchive::addFile: Y
+0928.319 (3) Free space on disk containing Updraft's temporary directory: Unknown
+0928.320 (3) Requesting backup semaphore lock (38aaebb84a60)
+0928.322 (3) [Info] Lock (updraft_lock_38aaebb84a60, wp_options) acquired
+0928.325 (3) Backup run: resumption=3, nonce=38aaebb84a60, file_nonce=38aaebb84a60 begun at=1637567113 (928s ago), job type=backup, previous check-in=73s
+0928.327 (3) Scheduling a resumption (4) after 300 seconds (1637568341) in case this run gets aborted
+0928.340 (3) Checking if we have a zip executable available
+0928.341 (3) Creation of backups of directories: had begun; will resume
+0928.343 (3) Beginning creation of dump of plugins (split every: 400 MB)
+0928.344 (3) Deleting old temporary file: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp.lKqNG6
+0928.348 (3) File exists (/home/vol15_8/epizy.com/epiz_30199179/htdocs/wp-content/updraft/backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1637567812, time_now=1637568041, diff=229)
+0928.350 (3) Successfully read zip manifest file contents
+0928.870 (3) Total entities for the zip file: 2774 directories, 13340 files (0 skipped as non-modified), 173.6 MB
+0928.887 (3) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 100 files added (on-disk size: 13545.1 KB)
+0928.888 (3) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 200 files added (on-disk size: 13545.1 KB)
+0928.889 (3) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 300 files added (on-disk size: 13545.1 KB)
+0928.890 (3) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 400 files added (on-disk size: 13545.1 KB)
+0928.892 (3) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 500 files added (on-disk size: 13545.1 KB)
+0928.893 (3) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 600 files added (on-disk size: 13545.1 KB)
+0928.894 (3) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 700 files added (on-disk size: 13545.1 KB)
+0928.895 (3) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 800 files added (on-disk size: 13545.1 KB)
+0928.896 (3) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 900 files added (on-disk size: 13545.1 KB)
+0928.897 (3) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1000 files added (on-disk size: 13545.1 KB)
+0928.903 (3) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1100 files added (on-disk size: 13545.1 KB)
+0928.909 (3) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1200 files added (on-disk size: 13545.1 KB)
+0928.914 (3) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1300 files added (on-disk size: 13545.1 KB)
+0928.918 (3) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1400 files added (on-disk size: 13545.1 KB)
+0928.924 (3) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1500 files added (on-disk size: 13545.1 KB)
+0928.929 (3) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1600 files added (on-disk size: 13545.1 KB)
+0928.934 (3) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1700 files added (on-disk size: 13545.1 KB)
+0928.939 (3) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1800 files added (on-disk size: 13545.1 KB)
+0928.945 (3) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1900 files added (on-disk size: 13545.1 KB)
+0928.950 (3) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 2000 files added (on-disk size: 13545.1 KB)
+0928.951 (3) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (28.3 MB, 13340 files batched, 1001 (1001) added so far); re-opening (prior size: 13545.1 KB)
+0950.459 (3) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 2100 files added (on-disk size: 14835.3 KB)
+0972.080 (3) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 98 (1099) files added so far); re-opening (prior size: 14835.3 KB)
+1244.993 (4) Opened log file at time: Mon, 22 Nov 2021 08:05:58 +0000 on http://chickenshoes.infinityfreeapp.com
+1244.995 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.63 WP: 5.8.2 PHP: 7.4.8 (apache2handler, Linux freeweb21.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64) MySQL: 5.6.48-88.0 (max packet size=3145728) WPLANG: vi Server: Apache safe_mode: 0 max_execution_time: 60 memory_limit: 128M (used: 75.9M | 49M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG: C ZipArchive::addFile: Y
+1244.996 (4) Free space on disk containing Updraft's temporary directory: Unknown
+1244.997 (4) Requesting backup semaphore lock (38aaebb84a60)
+1244.998 (4) [Info] Lock (updraft_lock_38aaebb84a60, wp_options) acquired
+1245.002 (4) Backup run: resumption=4, nonce=38aaebb84a60, file_nonce=38aaebb84a60 begun at=1637567113 (1245s ago), job type=backup, previous check-in=22.1s
+1245.004 (4) Scheduling a resumption (5) after 300 seconds (1637568658) in case this run gets aborted
+1245.017 (4) Checking if we have a zip executable available
+1245.018 (4) Creation of backups of directories: had begun; will resume
+1245.020 (4) Beginning creation of dump of plugins (split every: 400 MB)
+1245.021 (4) Deleting old temporary file: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp.pzG1zj
+1245.026 (4) File exists (/home/vol15_8/epizy.com/epiz_30199179/htdocs/wp-content/updraft/backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1637568105, time_now=1637568358, diff=253)
+1245.029 (4) Successfully read zip manifest file contents
+1245.495 (4) Total entities for the zip file: 2774 directories, 13340 files (0 skipped as non-modified), 173.6 MB
+1245.514 (4) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 100 files added (on-disk size: 14912.2 KB)
+1245.516 (4) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 200 files added (on-disk size: 14912.2 KB)
+1245.517 (4) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 300 files added (on-disk size: 14912.2 KB)
+1245.518 (4) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 400 files added (on-disk size: 14912.2 KB)
+1245.519 (4) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 500 files added (on-disk size: 14912.2 KB)
+1245.520 (4) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 600 files added (on-disk size: 14912.2 KB)
+1245.522 (4) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 700 files added (on-disk size: 14912.2 KB)
+1245.523 (4) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 800 files added (on-disk size: 14912.2 KB)
+1245.524 (4) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 900 files added (on-disk size: 14912.2 KB)
+1245.525 (4) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1000 files added (on-disk size: 14912.2 KB)
+1245.531 (4) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1100 files added (on-disk size: 14912.2 KB)
+1245.536 (4) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1200 files added (on-disk size: 14912.2 KB)
+1245.542 (4) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1300 files added (on-disk size: 14912.2 KB)
+1245.547 (4) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1400 files added (on-disk size: 14912.2 KB)
+1245.552 (4) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1500 files added (on-disk size: 14912.2 KB)
+1245.557 (4) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1600 files added (on-disk size: 14912.2 KB)
+1245.563 (4) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1700 files added (on-disk size: 14912.2 KB)
+1245.569 (4) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1800 files added (on-disk size: 14912.2 KB)
+1245.574 (4) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1900 files added (on-disk size: 14912.2 KB)
+1245.579 (4) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 2000 files added (on-disk size: 14912.2 KB)
+1245.580 (4) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (28.3 MB, 13340 files batched, 1001 (1001) added so far); re-opening (prior size: 14912.2 KB)
+1548.857 (5) Opened log file at time: Mon, 22 Nov 2021 08:11:02 +0000 on http://chickenshoes.infinityfreeapp.com
+1548.859 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.63 WP: 5.8.2 PHP: 7.4.8 (apache2handler, Linux freeweb21.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64) MySQL: 5.6.48-88.0 (max packet size=3145728) WPLANG: vi Server: Apache safe_mode: 0 max_execution_time: 60 memory_limit: 128M (used: 75.4M | 31M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG: C ZipArchive::addFile: Y
+1548.864 (5) Free space on disk containing Updraft's temporary directory: Unknown
+1548.865 (5) Requesting backup semaphore lock (38aaebb84a60)
+1548.867 (5) [Info] Lock (updraft_lock_38aaebb84a60, wp_options) acquired
+1548.869 (5) Backup run: resumption=5, nonce=38aaebb84a60, file_nonce=38aaebb84a60 begun at=1637567113 (1549s ago), job type=backup, previous check-in=19.7s
+1548.872 (5) Scheduling a resumption (6) after 300 seconds (1637568962) in case this run gets aborted
+1548.886 (5) Checking if we have a zip executable available
+1548.887 (5) Creation of backups of directories: had begun; will resume
+1548.889 (5) Beginning creation of dump of plugins (split every: 400 MB)
+1548.890 (5) Deleting old temporary file: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp.EGA60c
+1548.893 (5) File exists (/home/vol15_8/epizy.com/epiz_30199179/htdocs/wp-content/updraft/backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1637568378, time_now=1637568662, diff=284)
+1548.896 (5) Successfully read zip manifest file contents
+1549.428 (5) Total entities for the zip file: 2774 directories, 13340 files (0 skipped as non-modified), 173.6 MB
+1549.447 (5) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 100 files added (on-disk size: 14912.2 KB)
+1549.448 (5) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 200 files added (on-disk size: 14912.2 KB)
+1549.449 (5) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 300 files added (on-disk size: 14912.2 KB)
+1549.450 (5) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 400 files added (on-disk size: 14912.2 KB)
+1549.451 (5) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 500 files added (on-disk size: 14912.2 KB)
+1549.453 (5) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 600 files added (on-disk size: 14912.2 KB)
+1549.454 (5) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 700 files added (on-disk size: 14912.2 KB)
+1549.455 (5) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 800 files added (on-disk size: 14912.2 KB)
+1549.456 (5) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 900 files added (on-disk size: 14912.2 KB)
+1549.457 (5) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1000 files added (on-disk size: 14912.2 KB)
+1549.463 (5) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1100 files added (on-disk size: 14912.2 KB)
+1549.468 (5) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1200 files added (on-disk size: 14912.2 KB)
+1549.473 (5) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1300 files added (on-disk size: 14912.2 KB)
+1549.478 (5) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1400 files added (on-disk size: 14912.2 KB)
+1549.483 (5) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1500 files added (on-disk size: 14912.2 KB)
+1549.488 (5) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1600 files added (on-disk size: 14912.2 KB)
+1549.493 (5) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1700 files added (on-disk size: 14912.2 KB)
+1549.498 (5) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1800 files added (on-disk size: 14912.2 KB)
+1549.503 (5) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1900 files added (on-disk size: 14912.2 KB)
+1549.508 (5) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 2000 files added (on-disk size: 14912.2 KB)
+1549.509 (5) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (28.3 MB, 13340 files batched, 1001 (1001) added so far); re-opening (prior size: 14912.2 KB)
+1569.177 (5) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 2100 files added (on-disk size: 14912.2 KB)
+1586.292 (5) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (28.5 MB, 98 (1099) files added so far); re-opening (prior size: 14912.2 KB)
+1906.886 (6) Opened log file at time: Mon, 22 Nov 2021 08:17:00 +0000 on http://chickenshoes.infinityfreeapp.com
+1906.887 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.63 WP: 5.8.2 PHP: 7.4.8 (apache2handler, Linux freeweb21.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64) MySQL: 5.6.48-88.0 (max packet size=3145728) WPLANG: vi Server: Apache safe_mode: 0 max_execution_time: 60 memory_limit: 128M (used: 75.4M | 37M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG: C ZipArchive::addFile: Y
+1906.888 (6) Free space on disk containing Updraft's temporary directory: Unknown
+1906.889 (6) Requesting backup semaphore lock (38aaebb84a60)
+1906.891 (6) [Info] Lock (updraft_lock_38aaebb84a60, wp_options) acquired
+1906.894 (6) Backup run: resumption=6, nonce=38aaebb84a60, file_nonce=38aaebb84a60 begun at=1637567113 (1907s ago), job type=backup, previous check-in=56.7s
+1906.896 (6) Scheduling a resumption (7) after 300 seconds (1637569320) in case this run gets aborted
+1906.909 (6) Checking if we have a zip executable available
+1906.910 (6) Creation of backups of directories: had begun; will resume
+1906.913 (6) Beginning creation of dump of plugins (split every: 400 MB)
+1906.915 (6) File exists (/home/vol15_8/epizy.com/epiz_30199179/htdocs/wp-content/updraft/backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1637568719, time_now=1637569020, diff=301)
+1906.917 (6) Successfully read zip manifest file contents
+1907.454 (6) Total entities for the zip file: 2774 directories, 13340 files (0 skipped as non-modified), 173.6 MB
+1907.474 (6) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 100 files added (on-disk size: 14912.2 KB)
+1907.475 (6) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 200 files added (on-disk size: 14912.2 KB)
+1907.476 (6) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 300 files added (on-disk size: 14912.2 KB)
+1907.477 (6) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 400 files added (on-disk size: 14912.2 KB)
+1907.478 (6) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 500 files added (on-disk size: 14912.2 KB)
+1907.479 (6) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 600 files added (on-disk size: 14912.2 KB)
+1907.481 (6) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 700 files added (on-disk size: 14912.2 KB)
+1907.482 (6) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 800 files added (on-disk size: 14912.2 KB)
+1907.483 (6) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 900 files added (on-disk size: 14912.2 KB)
+1907.484 (6) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1000 files added (on-disk size: 14912.2 KB)
+1907.490 (6) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1100 files added (on-disk size: 14912.2 KB)
+1907.495 (6) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1200 files added (on-disk size: 14912.2 KB)
+1907.501 (6) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1300 files added (on-disk size: 14912.2 KB)
+1907.506 (6) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1400 files added (on-disk size: 14912.2 KB)
+1907.512 (6) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1500 files added (on-disk size: 14912.2 KB)
+1907.517 (6) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1600 files added (on-disk size: 14912.2 KB)
+1907.523 (6) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1700 files added (on-disk size: 14912.2 KB)
+1907.529 (6) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1800 files added (on-disk size: 14912.2 KB)
+1907.534 (6) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 1900 files added (on-disk size: 14912.2 KB)
+1907.540 (6) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 2000 files added (on-disk size: 14912.2 KB)
+1907.541 (6) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (28.3 MB, 13340 files batched, 1001 (1001) added so far); re-opening (prior size: 14912.2 KB)
+1926.575 (6) Zip: backup_2021-11-22-0745_ChickenShoes_38aaebb84a60-plugins.zip.tmp: 2100 files added (on-disk size: 14912.2 KB)
+1949.479 (6) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (28.5 MB, 98 (1099) files added so far); re-opening (prior size: 14912.2 KB)
